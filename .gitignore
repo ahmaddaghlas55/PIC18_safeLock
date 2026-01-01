@@ -1,0 +1,17 @@
+# MPLAB X / NetBeans
+nbproject/private/
+build/
+dist/
+debug/
+
+# XC8 outputs
+*.o
+*.elf
+*.hex
+*.map
+*.d
+*.lst
+
+# OS
+Thumbs.db
+.DS_Store
